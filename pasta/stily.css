@@ -1,6 +1,12 @@
 p{
     background-color: aqua;
     width: 500px;
+    margin: auto;
     box-shadow: aqua 2px 2px 2px;
     
+}
+
+body{
+
+    background-color: blue;
 }
