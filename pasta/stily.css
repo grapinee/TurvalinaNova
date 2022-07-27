@@ -19,6 +19,12 @@ p {
 hr{
     width: 500px;
     
-}    
-  
+    body {
+        background-color: blue;
+    }
+    .img{
+
+        height: 80px;
+        margin-top: 20px;
+    }
 
