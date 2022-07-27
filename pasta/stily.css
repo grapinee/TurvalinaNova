@@ -16,4 +16,9 @@ H1 {
     body {
         background-color: blue;
     }
+    .img{
+
+        height: 80px;
+        margin-top: 20px;
+    }
 
